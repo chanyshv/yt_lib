@@ -23,7 +23,7 @@ To install yt_lib, simply run this simple command in your terminal of choice:
     $ pip install yt_lib
 
 
-Requests is actively developed on GitHub, where the code is [always available](https://github.com/hairygeek/yt_lib).
+yt_lib is actively developed on GitHub, where the code is [always available](https://github.com/hairygeek/yt_lib).
 
 You can either clone the public repository:
 
